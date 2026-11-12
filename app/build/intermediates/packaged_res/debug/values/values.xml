@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_color">#2563EB</color>
+    <color name="bg_light">#F8FAFC</color>
+    <color name="black">#0F172A</color>
+    <color name="card_surface">#FFFFFF</color>
+    <color name="error_bg">#FEE2E2</color>
+    <color name="error_color">#DC2626</color>
+    <color name="primary_color">#1E3A8A</color>
+    <color name="primary_dark">#0F172A</color>
+    <color name="primary_light">#3B82F6</color>
+    <color name="primary_variant">#1D4ED8</color>
+    <color name="purple_200">#93C5FD</color>
+    <color name="purple_500">#1E3A8A</color>
+    <color name="purple_700">#0F172A</color>
+    <color name="secondary_color">#0D9488</color>
+    <color name="secondary_light">#14B8A6</color>
+    <color name="status_accepted_bg">#D1FAE5</color>
+    <color name="status_accepted_text">#059669</color>
+    <color name="status_pending_bg">#FEF3C7</color>
+    <color name="status_pending_text">#D97706</color>
+    <color name="stroke_color">#E2E8F0</color>
+    <color name="teal_200">#14B8A6</color>
+    <color name="teal_700">#0D9488</color>
+    <color name="text_muted">#94A3B8</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Kabin Registration</string>
+    <style name="Theme.KabinRegistration" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/secondary_color</item>
+        <item name="colorSecondaryVariant">@color/secondary_light</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:windowBackground">@color/bg_light</item>
+    </style>
+</resources>
