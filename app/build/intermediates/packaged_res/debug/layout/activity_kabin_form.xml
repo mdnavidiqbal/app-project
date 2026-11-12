@@ -377,16 +377,16 @@
             </LinearLayout>
         </com.google.android.material.card.MaterialCardView>
 
-        <!-- Notice & Declaration Card -->
-        <TextView
+        <!-- Checkbox Declaration Card -->
+        <com.google.android.material.checkbox.MaterialCheckBox
+            android:id="@+id/cbDeclaration"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
-            android:background="#FFF8E1"
-            android:padding="12dp"
+            android:paddingHorizontal="8dp"
             android:text="Declaration: I confirm that all information provided above is true and correct. Providing false information may lead to rejection."
-            android:textColor="#E65100"
-            android:textSize="12sp" />
+            android:textColor="@color/text_primary"
+            android:textSize="13sp" />
 
         <!-- Submit Button -->
         <com.google.android.material.button.MaterialButton

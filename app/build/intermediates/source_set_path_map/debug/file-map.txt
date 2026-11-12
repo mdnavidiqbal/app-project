@@ -1,37 +1,42 @@
-com.example.kabinregistration.app-drawerlayout-1.1.1-0 C:\Users\user\.gradle\caches\transforms-3\01514ef49aaa7837d36b13f65ba089f4\transformed\drawerlayout-1.1.1\res
-com.example.kabinregistration.app-profileinstaller-1.3.0-1 C:\Users\user\.gradle\caches\transforms-3\0e99719c1721f1142b26db9093362a76\transformed\profileinstaller-1.3.0\res
-com.example.kabinregistration.app-core-ktx-1.12.0-2 C:\Users\user\.gradle\caches\transforms-3\15d4ff58c347de1d9c01398721af13f1\transformed\core-ktx-1.12.0\res
-com.example.kabinregistration.app-core-runtime-2.2.0-3 C:\Users\user\.gradle\caches\transforms-3\2dc81d4b15c8e076c83c13b022c1ba02\transformed\core-runtime-2.2.0\res
-com.example.kabinregistration.app-annotation-experimental-1.3.0-4 C:\Users\user\.gradle\caches\transforms-3\370dc6df9c1ddfc3c2f9320d443702d0\transformed\annotation-experimental-1.3.0\res
-com.example.kabinregistration.app-coordinatorlayout-1.1.0-5 C:\Users\user\.gradle\caches\transforms-3\46f0d30776f6c01a97124eeedf1d5fb3\transformed\coordinatorlayout-1.1.0\res
-com.example.kabinregistration.app-lifecycle-livedata-core-2.6.1-6 C:\Users\user\.gradle\caches\transforms-3\529959e7f38ccab955672ebfd50753ce\transformed\lifecycle-livedata-core-2.6.1\res
-com.example.kabinregistration.app-sqlite-framework-2.4.0-7 C:\Users\user\.gradle\caches\transforms-3\57ff4a8e917c7a133b339b91c5f6af7b\transformed\sqlite-framework-2.4.0\res
-com.example.kabinregistration.app-lifecycle-runtime-2.6.1-8 C:\Users\user\.gradle\caches\transforms-3\606b96858f3f003d578580e8e1bc2146\transformed\lifecycle-runtime-2.6.1\res
-com.example.kabinregistration.app-appcompat-1.6.1-9 C:\Users\user\.gradle\caches\transforms-3\60f9bab79c5ba5b4c82ae8c6a17130c1\transformed\appcompat-1.6.1\res
-com.example.kabinregistration.app-emoji2-1.2.0-10 C:\Users\user\.gradle\caches\transforms-3\70145bbbde0c2efc56f871bf5a5b1060\transformed\emoji2-1.2.0\res
-com.example.kabinregistration.app-constraintlayout-2.0.1-11 C:\Users\user\.gradle\caches\transforms-3\8508f4cfef30ee3cf8a1041482846fac\transformed\constraintlayout-2.0.1\res
-com.example.kabinregistration.app-viewpager2-1.0.0-12 C:\Users\user\.gradle\caches\transforms-3\882b4d6e8ecea429da5fee5c5c9c2885\transformed\viewpager2-1.0.0\res
-com.example.kabinregistration.app-lifecycle-viewmodel-savedstate-2.6.1-13 C:\Users\user\.gradle\caches\transforms-3\89d1325dd3a29aef9763e951f9daf11a\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
-com.example.kabinregistration.app-lifecycle-process-2.6.1-14 C:\Users\user\.gradle\caches\transforms-3\8c09915ed6a0dc01715a9483156714de\transformed\lifecycle-process-2.6.1\res
-com.example.kabinregistration.app-room-runtime-2.6.1-15 C:\Users\user\.gradle\caches\transforms-3\9716662f560bce94e1c5b96aa83d6e7b\transformed\room-runtime-2.6.1\res
-com.example.kabinregistration.app-material-1.11.0-16 C:\Users\user\.gradle\caches\transforms-3\99dc24b8086e9e02f60cbc0643cdc897\transformed\material-1.11.0\res
-com.example.kabinregistration.app-emoji2-views-helper-1.2.0-17 C:\Users\user\.gradle\caches\transforms-3\a0783a4aad1423c640df7fa1ce730c6c\transformed\emoji2-views-helper-1.2.0\res
-com.example.kabinregistration.app-transition-1.2.0-18 C:\Users\user\.gradle\caches\transforms-3\a2a50d69ebc015920ec035e0bbafd794\transformed\transition-1.2.0\res
-com.example.kabinregistration.app-cardview-1.0.0-19 C:\Users\user\.gradle\caches\transforms-3\ab620463462e0f419f905989207689fa\transformed\cardview-1.0.0\res
-com.example.kabinregistration.app-fragment-1.3.6-20 C:\Users\user\.gradle\caches\transforms-3\afdee0cb7e48bc7d0233a8c835f9d316\transformed\fragment-1.3.6\res
-com.example.kabinregistration.app-lifecycle-livedata-2.6.1-21 C:\Users\user\.gradle\caches\transforms-3\b35b3f521b6f7bffe90d51f136acd082\transformed\lifecycle-livedata-2.6.1\res
-com.example.kabinregistration.app-lifecycle-viewmodel-2.6.1-22 C:\Users\user\.gradle\caches\transforms-3\b43bb4729ad46bf9ba31544a5f3cc09a\transformed\lifecycle-viewmodel-2.6.1\res
-com.example.kabinregistration.app-sqlite-2.4.0-23 C:\Users\user\.gradle\caches\transforms-3\b8c756f1b0ce2d46d2e85f788abe0cd9\transformed\sqlite-2.4.0\res
-com.example.kabinregistration.app-startup-runtime-1.1.1-24 C:\Users\user\.gradle\caches\transforms-3\cc2fd32867bc89441d11193b7ce32ccb\transformed\startup-runtime-1.1.1\res
-com.example.kabinregistration.app-activity-1.8.0-25 C:\Users\user\.gradle\caches\transforms-3\d42ca139b35f32432e0bad02adaf478b\transformed\activity-1.8.0\res
-com.example.kabinregistration.app-appcompat-resources-1.6.1-26 C:\Users\user\.gradle\caches\transforms-3\dd8395924473b069ee7a6f1edc69d57d\transformed\appcompat-resources-1.6.1\res
-com.example.kabinregistration.app-core-1.12.0-27 C:\Users\user\.gradle\caches\transforms-3\de8c3b838232e943fc8a6a53f2c25d4a\transformed\core-1.12.0\res
-com.example.kabinregistration.app-recyclerview-1.1.0-28 C:\Users\user\.gradle\caches\transforms-3\e3eef4b78bf0d50dbb2eee57d07da5bb\transformed\recyclerview-1.1.0\res
-com.example.kabinregistration.app-savedstate-1.2.1-29 C:\Users\user\.gradle\caches\transforms-3\e5f02973c17037b0afe8170a4ee09dd5\transformed\savedstate-1.2.1\res
-com.example.kabinregistration.app-pngs-30 D:\KabinRegistration-Java (1)\KabinRegistrationJava\app\build\generated\res\pngs\debug
-com.example.kabinregistration.app-resValues-31 D:\KabinRegistration-Java (1)\KabinRegistrationJava\app\build\generated\res\resValues\debug
-com.example.kabinregistration.app-packageDebugResources-32 D:\KabinRegistration-Java (1)\KabinRegistrationJava\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.kabinregistration.app-packageDebugResources-33 D:\KabinRegistration-Java (1)\KabinRegistrationJava\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.kabinregistration.app-merged_res-34 D:\KabinRegistration-Java (1)\KabinRegistrationJava\app\build\intermediates\merged_res\debug
-com.example.kabinregistration.app-debug-35 D:\KabinRegistration-Java (1)\KabinRegistrationJava\app\src\debug\res
-com.example.kabinregistration.app-main-36 D:\KabinRegistration-Java (1)\KabinRegistrationJava\app\src\main\res
+com.example.kabinregistration.app-core-1.12.0-0 C:\Users\user\.gradle\caches\transforms-3\03dd70c96587a62d83d4ae2e98a44771\transformed\core-1.12.0\res
+com.example.kabinregistration.app-play-services-base-18.0.1-1 C:\Users\user\.gradle\caches\transforms-3\0957581b8745fcca31b38a4f0c994dde\transformed\play-services-base-18.0.1\res
+com.example.kabinregistration.app-coordinatorlayout-1.1.0-2 C:\Users\user\.gradle\caches\transforms-3\0de28623f11c0524d0203123bb49966e\transformed\coordinatorlayout-1.1.0\res
+com.example.kabinregistration.app-emoji2-views-helper-1.2.0-3 C:\Users\user\.gradle\caches\transforms-3\112a88acb85c876ec675f8dedfd57822\transformed\emoji2-views-helper-1.2.0\res
+com.example.kabinregistration.app-cardview-1.0.0-4 C:\Users\user\.gradle\caches\transforms-3\2109b7536a0b0a3c32beaee0bdf99182\transformed\cardview-1.0.0\res
+com.example.kabinregistration.app-constraintlayout-2.0.1-5 C:\Users\user\.gradle\caches\transforms-3\22720b59d6d6a7c4f9c1e1d217a9b17f\transformed\constraintlayout-2.0.1\res
+com.example.kabinregistration.app-savedstate-1.2.1-6 C:\Users\user\.gradle\caches\transforms-3\2a92833896082b857fcdc31b7184b8b8\transformed\savedstate-1.2.1\res
+com.example.kabinregistration.app-core-ktx-1.12.0-7 C:\Users\user\.gradle\caches\transforms-3\366bd2056254117397c40f77fe4e107e\transformed\core-ktx-1.12.0\res
+com.example.kabinregistration.app-play-services-basement-18.1.0-8 C:\Users\user\.gradle\caches\transforms-3\37dca3e971c3ac69bd79f73ebe084734\transformed\play-services-basement-18.1.0\res
+com.example.kabinregistration.app-emoji2-1.2.0-9 C:\Users\user\.gradle\caches\transforms-3\3b8a812e9851a799f26b0a793bd3274e\transformed\emoji2-1.2.0\res
+com.example.kabinregistration.app-material-1.11.0-10 C:\Users\user\.gradle\caches\transforms-3\4d7116b043dde5eda7ede9c5e49a344c\transformed\material-1.11.0\res
+com.example.kabinregistration.app-viewpager2-1.0.0-11 C:\Users\user\.gradle\caches\transforms-3\4e9ec3fcb44d5f568ebfbbebe1f2bb6a\transformed\viewpager2-1.0.0\res
+com.example.kabinregistration.app-lifecycle-viewmodel-2.6.1-12 C:\Users\user\.gradle\caches\transforms-3\53c54a20cbb71c70dc1b1b6274a3ae46\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.kabinregistration.app-lifecycle-viewmodel-savedstate-2.6.1-13 C:\Users\user\.gradle\caches\transforms-3\54e823a2bf729fa82d6a7f3e10dea966\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.kabinregistration.app-lifecycle-livedata-core-2.6.1-14 C:\Users\user\.gradle\caches\transforms-3\5c98162b41ab20906c7f8c0796df5557\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.kabinregistration.app-startup-runtime-1.1.1-15 C:\Users\user\.gradle\caches\transforms-3\695880218fef4c555b76e659e2ebd33b\transformed\startup-runtime-1.1.1\res
+com.example.kabinregistration.app-sqlite-2.4.0-16 C:\Users\user\.gradle\caches\transforms-3\6ec455f345b549db8136288bc2c70bd6\transformed\sqlite-2.4.0\res
+com.example.kabinregistration.app-annotation-experimental-1.3.0-17 C:\Users\user\.gradle\caches\transforms-3\744ffe64e7015bf3932dba9fe2b70315\transformed\annotation-experimental-1.3.0\res
+com.example.kabinregistration.app-transition-1.2.0-18 C:\Users\user\.gradle\caches\transforms-3\808a65722845e60675866c8dbf124957\transformed\transition-1.2.0\res
+com.example.kabinregistration.app-profileinstaller-1.3.0-19 C:\Users\user\.gradle\caches\transforms-3\8812de7d090144a57d59f0fd29b85882\transformed\profileinstaller-1.3.0\res
+com.example.kabinregistration.app-room-runtime-2.6.1-20 C:\Users\user\.gradle\caches\transforms-3\9117cf5b2320ced0f1c025e8893d3c47\transformed\room-runtime-2.6.1\res
+com.example.kabinregistration.app-lifecycle-runtime-2.6.1-21 C:\Users\user\.gradle\caches\transforms-3\9ce83314dc43bf1f7b7c0034febadf4d\transformed\lifecycle-runtime-2.6.1\res
+com.example.kabinregistration.app-lifecycle-livedata-2.6.1-22 C:\Users\user\.gradle\caches\transforms-3\a3d33585e3bd9e53c2d12d84f6ca31b7\transformed\lifecycle-livedata-2.6.1\res
+com.example.kabinregistration.app-sqlite-framework-2.4.0-23 C:\Users\user\.gradle\caches\transforms-3\a9398f9ffa1ab24cbe449717da6b38d4\transformed\sqlite-framework-2.4.0\res
+com.example.kabinregistration.app-core-runtime-2.2.0-24 C:\Users\user\.gradle\caches\transforms-3\a9dfed963e65a7a0b67ea548ba94179e\transformed\core-runtime-2.2.0\res
+com.example.kabinregistration.app-drawerlayout-1.1.1-25 C:\Users\user\.gradle\caches\transforms-3\ba59c932c96441afd44753f3bbbbc7c7\transformed\drawerlayout-1.1.1\res
+com.example.kabinregistration.app-appcompat-1.6.1-26 C:\Users\user\.gradle\caches\transforms-3\c727912cdc576347a72bb95aa52ffcf2\transformed\appcompat-1.6.1\res
+com.example.kabinregistration.app-firebase-common-20.4.2-27 C:\Users\user\.gradle\caches\transforms-3\c7cd0dabb3eceb444e367865a3d4133f\transformed\firebase-common-20.4.2\res
+com.example.kabinregistration.app-appcompat-resources-1.6.1-28 C:\Users\user\.gradle\caches\transforms-3\c8a70a3cadc15161cb5492ed09a83a3c\transformed\appcompat-resources-1.6.1\res
+com.example.kabinregistration.app-lifecycle-process-2.6.1-29 C:\Users\user\.gradle\caches\transforms-3\cd9f8a7948734529cec582a89c097103\transformed\lifecycle-process-2.6.1\res
+com.example.kabinregistration.app-activity-1.8.0-30 C:\Users\user\.gradle\caches\transforms-3\d0ddc38da023492dd55c486aaaca0eea\transformed\activity-1.8.0\res
+com.example.kabinregistration.app-recyclerview-1.1.0-31 C:\Users\user\.gradle\caches\transforms-3\d640752159365746175dcafe72230b82\transformed\recyclerview-1.1.0\res
+com.example.kabinregistration.app-fragment-1.3.6-32 C:\Users\user\.gradle\caches\transforms-3\e1da9e4e3e07919a1045d05e08193477\transformed\fragment-1.3.6\res
+com.example.kabinregistration.app-browser-1.4.0-33 C:\Users\user\.gradle\caches\transforms-3\f734198b6cb77e22d000dcbe42d4f26e\transformed\browser-1.4.0\res
+com.example.kabinregistration.app-pngs-34 D:\KabinRegistration-Java (1)\KabinRegistrationJava\app\build\generated\res\pngs\debug
+com.example.kabinregistration.app-res-35 D:\KabinRegistration-Java (1)\KabinRegistrationJava\app\build\generated\res\processDebugGoogleServices
+com.example.kabinregistration.app-resValues-36 D:\KabinRegistration-Java (1)\KabinRegistrationJava\app\build\generated\res\resValues\debug
+com.example.kabinregistration.app-packageDebugResources-37 D:\KabinRegistration-Java (1)\KabinRegistrationJava\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.kabinregistration.app-packageDebugResources-38 D:\KabinRegistration-Java (1)\KabinRegistrationJava\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.kabinregistration.app-merged_res-39 D:\KabinRegistration-Java (1)\KabinRegistrationJava\app\build\intermediates\merged_res\debug
+com.example.kabinregistration.app-debug-40 D:\KabinRegistration-Java (1)\KabinRegistrationJava\app\src\debug\res
+com.example.kabinregistration.app-main-41 D:\KabinRegistration-Java (1)\KabinRegistrationJava\app\src\main\res

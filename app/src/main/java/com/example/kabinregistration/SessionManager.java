@@ -3,7 +3,9 @@ package com.example.kabinregistration;
 import android.content.Context;
 import android.content.SharedPreferences;
 
-/** Keeps only the logged-in user's id in SharedPreferences. */
+import com.google.firebase.auth.FirebaseAuth;
+
+/** Keeps logged-in user session in SharedPreferences & FirebaseAuth. */
 public class SessionManager {
 
     private final SharedPreferences prefs;
@@ -20,11 +22,27 @@ public class SessionManager {
         return prefs.getInt("user_id", -1);
     }
 
+    public void saveUserUid(String uid) {
+        prefs.edit().putString("user_uid", uid).apply();
+    }
+
+    public String getUserUid() {
+        String uid = prefs.getString("user_uid", null);
+        if (uid == null && FirebaseAuth.getInstance().getCurrentUser() != null) {
+            uid = FirebaseAuth.getInstance().getCurrentUser().getUid();
+        }
+        return uid;
+    }
+
     public boolean isLoggedIn() {
-        return getUserId() != -1;
+        return FirebaseAuth.getInstance().getCurrentUser() != null || getUserId() != -1;
     }
 
     public void logout() {
         prefs.edit().clear().apply();
+        try {
+            FirebaseAuth.getInstance().signOut();
+        } catch (Exception ignored) {
+        }
     }
 }

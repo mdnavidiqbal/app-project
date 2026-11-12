@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74010798069",
+    "project_id": "kabin-app-6a2b1",
+    "storage_bucket": "kabin-app-6a2b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74010798069:android:c8ebee555cd5fe153562bc",
+        "android_client_info": {
+          "package_name": "com.example.kabinregistration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4kyu9fdZb5BUARWS6Mq7dtWWkup5SU00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

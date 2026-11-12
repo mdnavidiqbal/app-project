@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.kabinregistration.app-mergeDebugResources-32:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "outputFile": "com.example.kabinregistration.app-mergeDebugResources-37:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\99dc24b8086e9e02f60cbc0643cdc897\\transformed\\material-1.11.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\4d7116b043dde5eda7ede9c5e49a344c\\transformed\\material-1.11.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

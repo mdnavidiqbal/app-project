@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">74010798069</string>
+    <string name="google_api_key" translatable="false">AIzaSyA4kyu9fdZb5BUARWS6Mq7dtWWkup5SU00</string>
+    <string name="google_app_id" translatable="false">1:74010798069:android:c8ebee555cd5fe153562bc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA4kyu9fdZb5BUARWS6Mq7dtWWkup5SU00</string>
+    <string name="google_storage_bucket" translatable="false">kabin-app-6a2b1.firebasestorage.app</string>
+    <string name="project_id" translatable="false">kabin-app-6a2b1</string>
+</resources>
